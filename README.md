@@ -168,10 +168,15 @@ class QuizViewModel : ViewModel(){
 <p align = "center" >Codewars</p>
 
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz6/blob/main/cd1.png)
+
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz6/blob/main/cd2.png)
+
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz6/blob/main/cd3.png)
+
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz6/blob/main/cd4.png)
+
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz6/blob/main/cd5.png)
+
 ![Screenshot](https://github.com/Pupkapus/GeoQiuz6/blob/main/cd6.png)
 
 ***
