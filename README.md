@@ -28,14 +28,19 @@
 <p align = "center" >Упражнение. Вывод версии Android на устройстве</p>
 <p align = "center" >MainActivity</p>
 <p>добавил пару строк для отображения API в TextView</p>
+
 ```kotlin
+    
     private lateinit var cheatInfo: TextView
+    
 ```
 
 ```kotlin
+
     apiView = findViewById(R.id.api_string)
     ...
     apiView.setText("API level " + android.os.Build.VERSION.SDK_INT.toString())
+
 ```
 
 ***
@@ -44,6 +49,7 @@
 <p align = "center" >MainActivity</p>
 
 ```kotlin
+
 private fun checkCheatTries(){
 
         var counting = 0
