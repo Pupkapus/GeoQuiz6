@@ -169,15 +169,15 @@ class QuizViewModel : ViewModel(){
 
 ![Screenshot](https://github.com/Pupkapus/GeoQuiz6/blob/main/cd1.png)
 
-![Screenshot](https://github.com/Pupkapus/GeoQiuz6/blob/main/cd2.png)
+![Screenshot](https://github.com/Pupkapus/GeoQuiz6/blob/main/cd2.png)
 
-![Screenshot](https://github.com/Pupkapus/GeoQiuz6/blob/main/cd3.png)
+![Screenshot](https://github.com/Pupkapus/GeoQuiz6/blob/main/cd3.png)
 
-![Screenshot](https://github.com/Pupkapus/GeoQiuz6/blob/main/cd4.png)
+![Screenshot](https://github.com/Pupkapus/GeoQuiz6/blob/main/cd4.png)
 
-![Screenshot](https://github.com/Pupkapus/GeoQiuz6/blob/main/cd5.png)
+![Screenshot](https://github.com/Pupkapus/GeoQuiz6/blob/main/cd5.png)
 
-![Screenshot](https://github.com/Pupkapus/GeoQiuz6/blob/main/cd6.png)
+![Screenshot](https://github.com/Pupkapus/GeoQuiz6/blob/main/cd6.png)
 
 ***
 <p align = "center" >ВЫВОД</p>
